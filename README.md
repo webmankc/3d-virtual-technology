@@ -10,3 +10,10 @@ conda activate vtuber
 conda deactivate
 
 Install the requirements by `pip install -r requirements_(cpu or gpu).txt`
+
+dlib 安装
+https://www.cnblogs.com/dfdn/p/9393260.html
+
+torch 安装
+https://pytorch.org/
+mac conda install pytorch torchvision torchaudio -c pytorch
